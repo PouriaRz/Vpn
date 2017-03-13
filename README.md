@@ -11,7 +11,7 @@ sudo sh setup.sh
 
 then connect to your DebianCore Server
 
-if you do all of these by default you'll get user named "vpn"
+by default if you do these you'll get username "vpn"
 
 but if You want to change that follow this help:
 
