@@ -1,8 +1,11 @@
 create vpn for DebianCore unix
+
 --------
 commands
+
 ------
-Attention: For this work you'll need sudo user
+Attention: this work require sudo user
+
 ````````````````````````````````
 git clone https://github.com/mohamadkhoshnava/vpn
 
