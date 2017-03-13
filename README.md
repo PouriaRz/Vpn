@@ -1,31 +1,21 @@
-ساخت وی پی ان برای سرور های ابنتو
+create vpn for DebianCore unix
 --------
 commands
 ------
-برای این کار نیاز به یک یوزر سودو ارید سپس مراحل زیر را انجام دهید
+Attention: For this work you'll need sudo user
 ````````````````````````````````
 git clone https://github.com/mohamadkhoshnava/vpn
 
 sudo sh setup.sh
 ````````````````````````````````
 
-بعد با استفاده از یوزر و پسورد و ای پی سروتون وصل بشنین
+then connect to your DebianCore Server
 
-در صورت انجام مراحل بالا شما یک یوزر با نام
- vpn
-دریافت میکنید ولی اگر بخواهید یوزر و پسورد با نام دلخواه بگیرید باید مثل زیر عمل کنید
+if you do all of these by default you'll get user named "vpn"
+
+but if You want to change that follow this help:
 
 ````````````````````````
-sudo bash setup.sh -u vpn -p mypass
+sudo bash setup.sh -u "User" -p "Password"
 ```````````````````````
-در عبارت بالا به جای
-```````````````
-vpn
-``````````````
-نام یوزر و به جای 
-```````````
-mypass 
-```````````
-رمز دلخواه خود را وارد کنید
-
-موفق باشید
+Good Luck
