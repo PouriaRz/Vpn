@@ -1,4 +1,4 @@
-<h1>create vpn for DebianCore unix</h1>
+<h1>Create vpn for DebianCore unix</h1>
 
 <h3>Sudo Permission required!</h3>
 <h3>Commands:</h3>
@@ -10,9 +10,9 @@ sudo sh setup.sh
 ````````````````````````````````
 
 
-then connect to your DebianCore Server
+Then connect to your DebianCore Server
 
-if You want to change default follow this step:
+If You want to change default follow this step:
 
 
 ````````````````````````
