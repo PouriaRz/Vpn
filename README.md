@@ -12,7 +12,7 @@ sudo sh setup.sh
 
 Then connect to your DebianCore Server
 
-If You want to change default follow this step:
+If You want to change default follow this command:
 
 
 ````````````````````````
