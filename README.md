@@ -14,7 +14,7 @@ then connect to your DebianCore Server
 
 by doing these you will get "vpn" username
 
-if You want to change default follow this help:
+if You want to change default follow this step:
 
 
 ````````````````````````
