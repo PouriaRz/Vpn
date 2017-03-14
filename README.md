@@ -4,7 +4,7 @@
 <h3>Commands:</h3>
 
 ````````````````````````````````
-git clone https://github.com/mohamadkhoshnava/vpn
+git clone https://github.com/PouriaRz/vpn
 
 sudo sh setup.sh
 ````````````````````````````````
